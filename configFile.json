@@ -1,0 +1,73 @@
+{
+  "appVersion": "1.1.0",
+  "configVersion": 10,
+  "maxNewsCount": 15,
+  
+  "theme": {
+    "primaryColor": "0xFF854DCF",
+    "secondaryColor": "0xFF747589",
+    "accentColor": "0xFFEB4280",
+    "backgroundColor": "0xFFF4F4F4",
+    "appBarColor": "0xFF3B4FE3"
+  },
+ "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/brain.png",
+  "taglineLogo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/dfn_motto.png",
+  "tagline": "festiwal.wroc.pl",
+  "website": "http://www.festiwal.wroc.pl",
+  
+  "newsFeed": "https://www.festiwal.wroc.pl/wp-json/wp/v2/posts",
+  "eventsFeed": "https://www.festiwal.wroc.pl/wp-json/wp/v2/events-list?all=true",
+  "aboutFeed": "https://raw.githubusercontent.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/master/about_us.md",
+  
+  "sponsors": [
+    {
+      "type": "patron",
+      "name": "MINISTERSTWO Edukacji i Nauki",
+      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/logoMEiN.jpg",
+      "description": "XXIV Dolnośląski Festiwal Nauki 2021 dofinansowany z programu “Społeczna odpowiedzialności nauki” Ministra Nauki i Szkolnictwa Wyższego",
+	  "link": "https://www.gov.pl/web/edukacja-i-nauka"
+    },
+    {
+      "type": "patronage",
+      "name": "Wrocławskie Centrum Akademickie",
+      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/grant_wca.jpg",
+      "description": "patronage",
+	  "link": "https://wca.wroc.pl/"
+    },
+	{
+      "type": "patronage",
+      "name": "Województwo Dolnośląskie",
+      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/grant_ds.jpg",
+      "description": "Projekt jest współfinansowany z budżetu Województwa Dolnośląskiego",
+	   "link": "https://umwd.dolnyslask.pl/"
+    },
+	{
+      "type": "partner",
+      "name": "Objectivity",
+      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/partner_o.jpg",
+      "description": "partner",
+	   "link": "https://joinus.objectivity.co.uk/"
+    },
+	{
+      "type": "partner",
+      "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji we Wrocławiu S.A.",
+      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/mpwik150l.jpg",
+      "description": "partner",
+	   "link": "https://mpwik.wroc.pl/"
+    },
+	{
+      "type": "partner",
+      "name": "PijKranowke",
+      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/pijkranowke.jpg",
+      "description": "partner",
+	   "link": "https://pijkranowke.pl/"
+    },
+    {
+      "type": "support",
+      "name": "Stan-Mit-Serwis",
+      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/stan-mit-serwis.png",
+      "description": "support",
+	  "link": "https://www.stan-mit.com.pl/"
+    }
+  ]
+}
