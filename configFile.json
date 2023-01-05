@@ -63,14 +63,14 @@
 	  "link": "http://kolejedolnoslaskie.pl/"
     },
 	      {
-      "type": "donator",
+      "type": "grant",
       "name": "Fundacja KGHM Polska Miedź",
       "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2022/04/fundacja_kghm_polskamiedz_rgb-2.jpg",
       "description": "Darczyńcy",
 	  "link": "http://fundacjakghm.pl/"
     },
 	      {
-      "type": "donator",
+      "type": "grant",
       "name": "Wrocławskie Zakłady Zielarskie „Herbapol” SA",
       "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2022/03/herbol.jpg",
       "description": "Darczyńcy",
