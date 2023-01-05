@@ -28,14 +28,14 @@
 	  "link": "https://www.wroclaw.pl/urzad-miejski-wroclawia"
     },
 	  {
-      "type": "patronage",
+      "type": "grant",
       "name": "Wrocławskie Centrum Akademickie",
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/grant_wca.jpg",
-      "description": "patronage",
+      "description": "grant",
 	  "link": "https://wca.wroc.pl/"
     },
 	{
-      "type": "patronage",
+      "type": "grant",
       "name": "Województwo Dolnośląskie",
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/grant_ds.jpg",
       "description": "Projekt jest współfinansowany z budżetu Województwa Dolnośląskiego",
@@ -63,17 +63,17 @@
 	  "link": "http://kolejedolnoslaskie.pl/"
     },
 	      {
-      "type": "support",
+      "type": "donator",
       "name": "Fundacja KGHM Polska Miedź",
       "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2022/04/fundacja_kghm_polskamiedz_rgb-2.jpg",
-      "description": "support",
+      "description": "Darczyńcy",
 	  "link": "http://fundacjakghm.pl/"
     },
 	      {
-      "type": "support",
+      "type": "donator",
       "name": "Wrocławskie Zakłady Zielarskie „Herbapol” SA",
       "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2022/03/herbol.jpg",
-      "description": "support",
+      "description": "Darczyńcy",
 	  "link": "https://herbapol.pl/"
     },
     {
