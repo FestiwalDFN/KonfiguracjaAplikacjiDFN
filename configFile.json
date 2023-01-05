@@ -21,6 +21,13 @@
   
   "sponsors": [
     {
+      "type": "grant",
+      "name": "Wrocław Miasto Spotkań",
+      "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2020/08/PL_podstawowy-02_0-450x57-1.jpg",
+      "description": "Wydarzenie współfinansowane ze środków Miasta Wrocław",
+	  "link": "https://www.wroclaw.pl/urzad-miejski-wroclawia"
+    },
+	  {
       "type": "patronage",
       "name": "Wrocławskie Centrum Akademickie",
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/grant_wca.jpg",
@@ -36,13 +43,6 @@
     },
 	{
       "type": "partner",
-      "name": "Objectivity",
-      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/partner_o.jpg",
-      "description": "partner",
-	   "link": "https://joinus.objectivity.co.uk/"
-    },
-	{
-      "type": "partner",
       "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji we Wrocławiu S.A.",
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/mpwik150l.jpg",
       "description": "partner",
@@ -55,12 +55,40 @@
       "description": "partner",
 	   "link": "https://pijkranowke.pl/"
     },
+	  {
+      "type": "partner",
+      "name": "Koleje Dolnośląskie",
+      "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2022/07/logo-kd-300x89.jpg",
+      "description": "partner",
+	  "link": "http://kolejedolnoslaskie.pl/"
+    },
+	      {
+      "type": "support",
+      "name": "Fundacja KGHM Polska Miedź",
+      "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2022/04/fundacja_kghm_polskamiedz_rgb-2.jpg",
+      "description": "support",
+	  "link": "http://fundacjakghm.pl/"
+    },
+	      {
+      "type": "support",
+      "name": "Wrocławskie Zakłady Zielarskie „Herbapol” SA",
+      "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2022/03/herbol.jpg",
+      "description": "support",
+	  "link": "https://herbapol.pl/"
+    },
     {
       "type": "support",
       "name": "Stan-Mit-Serwis",
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/stan-mit-serwis.png",
       "description": "support",
 	  "link": "https://www.stan-mit.com.pl/"
+    },
+	  {
+      "type": "support",
+      "name": "Dwór Polski",
+      "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2022/07/dwor-760x566.jpg",
+      "description": "support",
+	  "link": "https://dworpolski.wroclaw.pl/"
     }
   ]
 }
