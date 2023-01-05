@@ -21,13 +21,6 @@
   
   "sponsors": [
     {
-      "type": "patron",
-      "name": "MINISTERSTWO Edukacji i Nauki",
-      "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/logoMEiN.jpg",
-      "description": "XXIV Dolnośląski Festiwal Nauki 2021 dofinansowany z programu “Społeczna odpowiedzialności nauki” Ministra Nauki i Szkolnictwa Wyższego",
-	  "link": "https://www.gov.pl/web/edukacja-i-nauka"
-    },
-    {
       "type": "patronage",
       "name": "Wrocławskie Centrum Akademickie",
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/grant_wca.jpg",
