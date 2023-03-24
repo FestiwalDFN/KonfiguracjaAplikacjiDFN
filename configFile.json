@@ -54,6 +54,55 @@
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/stan-mit-serwis.png",
       "description": "support",
 	  "link": "https://www.stan-mit.com.pl/"
+    },
+  {
+      "type": "reguar",
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron",
+	  "link":"https://www.gov.pl/web/nauka/"
+    },
+  {
+      "type": "patron",
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron",
+	  "link":"https://www.gov.pl/web/nauka/"
+    },
+    {
+      "type": "grant",
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron",
+	  "link":"https://www.gov.pl/web/nauka/"
+    },
+    {
+      "type": "support",
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron",
+	  "link":"https://www.gov.pl/web/nauka/"
+    },
+	    {
+      "type": "patronage",
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron",
+	  "link":"https://www.gov.pl/web/nauka/"
+    },
+	    {
+      "type": "mediaPatronage",
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron",
+	  "link":"https://www.gov.pl/web/nauka/"
+    },
+	  	    {
+      "type": "partner",
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron",
+	  "link":"https://www.gov.pl/web/nauka/"
     }
   ]
 }
