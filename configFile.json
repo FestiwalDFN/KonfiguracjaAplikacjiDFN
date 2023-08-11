@@ -1,5 +1,5 @@
 {
-  "appVersion": "26.1",
+  "appVersion": "26.2",
   "configVersion": 11,
   "maxNewsCount": 15,
   
@@ -24,7 +24,7 @@
       "type": "grant",
       "name": "Ministerstwo Edukacji i Nauki",
       "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2023/08/01_znak_podstawowy_kolor_biale_tlo.png",
-      "description": "projekt finansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu \"Społeczna Odpowiedzialność Nauki II\"",
+      "description": "projekt finansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu Społeczna Odpowiedzialność Nauki II",
 	  "link": "https://www.festiwal.wroc.pl/2021/11/24/sponsor-rzadowy-ministerstwo-edukacji-i-nauki/"
     },
     {
