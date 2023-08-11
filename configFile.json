@@ -1,6 +1,6 @@
 {
-  "appVersion": "26.2",
-  "configVersion": 11,
+  "appVersion": "1.1.1",
+  "configVersion": 12,
   "maxNewsCount": 15,
   
   "theme": {
