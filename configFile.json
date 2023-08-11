@@ -22,6 +22,13 @@
   "sponsors": [
     {
       "type": "grant",
+      "name": "Ministerstwo Edukacji i Nauki",
+      "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2023/08/01_znak_podstawowy_kolor_biale_tlo.png",
+      "description": "projekt finansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu \"Społeczna Odpowiedzialność Nauki II\"",
+	  "link": "https://www.festiwal.wroc.pl/2021/11/24/sponsor-rzadowy-ministerstwo-edukacji-i-nauki/"
+    },
+    {
+      "type": "grant",
       "name": "Wrocław Miasto Spotkań",
       "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2020/08/PL_podstawowy-02_0-450x57-1.jpg",
       "description": "Wydarzenie współfinansowane ze środków Miasta Wrocław",
@@ -31,7 +38,7 @@
       "type": "grant",
       "name": "Wrocławskie Centrum Akademickie",
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/grant_wca.jpg",
-      "description": "grant",
+      "description": "grant",tab to mo
 	  "link": "https://wca.wroc.pl/"
     },
 	{
