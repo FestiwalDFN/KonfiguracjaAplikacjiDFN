@@ -1,6 +1,6 @@
 {
   "appVersion": "1.1.1",
-  "configVersion": 12,
+  "configVersion": 13,
   "maxNewsCount": 15,
   
   "theme": {
@@ -47,6 +47,13 @@
       "logo": "https://github.com/FestiwalDFN/KonfiguracjaAplikacjiDFN/raw/master/sponsors/grant_ds.jpg",
       "description": "Projekt jest współfinansowany z budżetu Województwa Dolnośląskiego",
 	   "link": "https://umwd.dolnyslask.pl/"
+    },
+	{
+      "type": "grant",
+      "name": "PGE Górnictwo i Energetyka Konwencjonalna SA",
+      "logo": "https://www.festiwal.wroc.pl/wp-content/uploads/2023/09/logo-PGE-GiEK-SA-pion-CMYK-Npodpis-1-760x549.png",
+      "description": "PGE",
+	  "link": "https://pgegiek.pl/"
     },
       {
       "type": "grant",
